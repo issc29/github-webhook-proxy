@@ -1,0 +1,16 @@
+{
+  "name": "github-webhook-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0"
+  }
+}
